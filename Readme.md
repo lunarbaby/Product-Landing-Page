@@ -1,3 +1,3 @@
 #Product Landing Page
 
-<p> This is the code for the web design project from freecodebootcamp.org.</p>
+<p> This is the code for one of the web design projects from freecodebootcamp.org.</p>
